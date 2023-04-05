@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders Board with a predefined initial state 1`] = `
+<div>
+  <div
+    class="Board"
+  >
+    <table
+      class="Board"
+    >
+      <tbody>
+        <tr>
+          <td
+            class="Cell "
+          />
+          <td
+            class="Cell Cell-lit"
+          />
+          <td
+            class="Cell Cell-lit"
+          />
+        </tr>
+        <tr>
+          <td
+            class="Cell Cell-lit"
+          />
+          <td
+            class="Cell Cell-lit"
+          />
+          <td
+            class="Cell Cell-lit"
+          />
+        </tr>
+        <tr>
+          <td
+            class="Cell Cell-lit"
+          />
+          <td
+            class="Cell "
+          />
+          <td
+            class="Cell "
+          />
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+`;
